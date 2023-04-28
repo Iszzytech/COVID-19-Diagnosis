@@ -10,3 +10,7 @@ The software uses a decision tree algorithm and machine learning techniques to i
 ![covid5](https://user-images.githubusercontent.com/67159289/235081477-0a3b47d0-cb56-4773-8d7f-40dc90e7b974.png)
 ![covid6](https://user-images.githubusercontent.com/67159289/235081636-2ed5b6bd-e7f9-4589-ac3f-b36224580b7e.png)
 ![covid7](https://user-images.githubusercontent.com/67159289/235081742-f9f306fe-0b3d-4155-ad39-eb9d0da9dadc.png)
+
+### View Demo
+You can visit the YouTube link -> https://www.youtube.com/watch?v=Pe6Q_Urhm-0
+
