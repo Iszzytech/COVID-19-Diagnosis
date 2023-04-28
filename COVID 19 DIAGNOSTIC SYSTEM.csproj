@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{78DA92FE-AEC4-4B47-8B72-F41E184377C6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>COVID_19_DIAGNOSTIC_SYSTEM</RootNamespace>
+    <AssemblyName>COVID 19 DIAGNOSTIC SYSTEM</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\Itone Media Player\Itone Media Player\bin\Debug\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="colorslider">
+      <HintPath>..\..\Itone Media Player\Itone Media Player\bin\Debug\colorslider.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\Itone Media Player\Itone Media Player\bin\Debug\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="connection\ServerConnection.cs" />
+    <Compile Include="covid19_dbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>covid19_dbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IntroTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IntroTab.Designer.cs">
+      <DependentUpon>IntroTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IntroTabSec2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IntroTabSec2.Designer.cs">
+      <DependentUpon>IntroTabSec2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OutlineTab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OutlineTab.Designer.cs">
+      <DependentUpon>OutlineTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegLogPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegLogPage.Designer.cs">
+      <DependentUpon>RegLogPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Result.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Result.Designer.cs">
+      <DependentUpon>Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Result2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Result2.Designer.cs">
+      <DependentUpon>Result2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Result3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Result3.Designer.cs">
+      <DependentUpon>Result3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="signuptab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="signuptab.Designer.cs">
+      <DependentUpon>signuptab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="symptom5Tab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="symptom5Tab.Designer.cs">
+      <DependentUpon>symptom5Tab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="symptomNew.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="symptomNew.Designer.cs">
+      <DependentUpon>symptomNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="symptomTab1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="symptomTab1.Designer.cs">
+      <DependentUpon>symptomTab1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="symptomTab2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="symptomTab2.Designer.cs">
+      <DependentUpon>symptomTab2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="symptomTab3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="symptomTab3.Designer.cs">
+      <DependentUpon>symptomTab3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="symptomTab4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="symptomTab4.Designer.cs">
+      <DependentUpon>symptomTab4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="symptomTab6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="symptomTab6.Designer.cs">
+      <DependentUpon>symptomTab6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="symptomTab7.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="symptomTab7.Designer.cs">
+      <DependentUpon>symptomTab7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCpatients1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCpatients1.Designer.cs">
+      <DependentUpon>UCpatients1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Patients.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Patients.Designer.cs">
+      <DependentUpon>UC_Patients.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IntroTab.resx">
+      <DependentUpon>IntroTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IntroTabSec2.resx">
+      <DependentUpon>IntroTabSec2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutlineTab.resx">
+      <DependentUpon>OutlineTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegLogPage.resx">
+      <DependentUpon>RegLogPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Result.resx">
+      <DependentUpon>Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result2.resx">
+      <DependentUpon>Result2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result3.resx">
+      <DependentUpon>Result3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signuptab.resx">
+      <DependentUpon>signuptab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="symptom5Tab.resx">
+      <DependentUpon>symptom5Tab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="symptomNew.resx">
+      <DependentUpon>symptomNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="symptomTab1.resx">
+      <DependentUpon>symptomTab1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="symptomTab2.resx">
+      <DependentUpon>symptomTab2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="symptomTab3.resx">
+      <DependentUpon>symptomTab3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="symptomTab4.resx">
+      <DependentUpon>symptomTab4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="symptomTab6.resx">
+      <DependentUpon>symptomTab6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="symptomTab7.resx">
+      <DependentUpon>symptomTab7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCpatients1.resx">
+      <DependentUpon>UCpatients1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Patients.resx">
+      <DependentUpon>UC_Patients.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="covid19_dbDataSet.xsc">
+      <DependentUpon>covid19_dbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="covid19_dbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>covid19_dbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="covid19_dbDataSet.xss">
+      <DependentUpon>covid19_dbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

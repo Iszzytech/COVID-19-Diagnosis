@@ -1,0 +1,207 @@
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\COVID 19 DIAGNOSTIC SYSTEM.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\COVID 19 DIAGNOSTIC SYSTEM.exe
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\COVID 19 DIAGNOSTIC SYSTEM.pdb
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Guna.UI.dll
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.exe
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.pdb
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Dashboard.resources
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.IntroTab.resources
+c:\users\dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.OutlineTab.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.IntroTabSec2.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.UC_Patients.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.UCpatients1.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\colorslider.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\COVID 19 DIAGNOSTIC SYSTEM.exe.config
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.exe
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.pdb
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\COVID 19 DIAGNOSTIC SYSTEM.exe
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\COVID 19 DIAGNOSTIC SYSTEM.pdb
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Dashboard.resources
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Form1.resources
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.IntroTab.resources
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.IntroTabSec2.resources
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.OutlineTab.resources
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Properties.Resources.resources
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.UCpatients1.resources
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.UC_Patients.resources
+C:\Users\sace\Documents\Visual Studio 2013\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.csproj.GenerateResource.Cache
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\COVID 19 DIAGNOSTIC SYSTEM.exe.config
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\COVID 19 DIAGNOSTIC SYSTEM.exe
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\COVID 19 DIAGNOSTIC SYSTEM.pdb
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Dashboard.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Form1.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.IntroTab.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.IntroTabSec2.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.OutlineTab.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Properties.Resources.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Result.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Result2.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Result3.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptom5Tab.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomTab1.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomTab2.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomTab3.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomTab4.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomTab6.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomTab7.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.UCpatients1.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.UC_Patients.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.csproj.CopyComplete
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.exe
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.pdb
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.login.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.RegLogPage.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.signuptab.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomNew.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Report.resources
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\RdlCompile.cache
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\RdlCompile.compiled
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\EnvDTE.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\stdole.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.MSXML.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\source\repos\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.csprojAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\EnvDTE.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\stdole.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\EnvDTE80.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\VSLangProj.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\VSLangProj80.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\VSLangProj2.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID 19 DIAGNOSTIC SYSTEM.csproj.COVID 19 DIAGNOSTIC SYSTEM.exe.config
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.login.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.RegLogPage.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Report.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Result.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Result2.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.Result3.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.signuptab.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptom5Tab.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomNew.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomTab1.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomTab2.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomTab3.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomTab4.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomTab6.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\COVID_19_DIAGNOSTIC_SYSTEM.symptomTab7.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\RdlCompile.cache
+C:\Users\Dell\documents\visual studio 2015\Projects\COVID 19 DIAGNOSTIC SYSTEM\COVID 19 DIAGNOSTIC SYSTEM\obj\Debug\RdlCompile.compiled
